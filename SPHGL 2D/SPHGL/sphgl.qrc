@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="SPHGL">
+    <file>Resources/action_background.png</file>
+    <file>Resources/lock_view.png</file>
+    <file>Resources/unlock_view.png</file>
+  </qresource>
+</RCC>
